@@ -1,0 +1,14 @@
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\bin\Debug\net9.0\Day1Programs.exe
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\bin\Debug\net9.0\Day1Programs.deps.json
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\bin\Debug\net9.0\Day1Programs.runtimeconfig.json
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\bin\Debug\net9.0\Day1Programs.dll
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\bin\Debug\net9.0\Day1Programs.pdb
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\Day1Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\Day1Programs.AssemblyInfoInputs.cache
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\Day1Programs.AssemblyInfo.cs
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\Day1Programs.csproj.CoreCompileInputs.cache
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\Day1Programs.dll
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\refint\Day1Programs.dll
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\Day1Programs.pdb
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\Day1Programs.genruntimeconfig.cache
+C:\Users\udays\OneDrive\Desktop\UdayaKumarShetty_NET_Training\Week1_CSharp_SQL\Day-1\Day1Programs\obj\Debug\net9.0\ref\Day1Programs.dll
